@@ -1,0 +1,25 @@
+{
+  "name": "Employer-Tracker",
+  "version": "1.0.0",
+  "description": "Make an employee tracker database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goisonberry/Employer-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goisonberry/Employer-Tracker/issues"
+  },
+  "homepage": "https://github.com/goisonberry/Employer-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
