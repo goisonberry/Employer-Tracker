@@ -2,7 +2,7 @@
 
 ## Description
 
-      Create a dynamic README file.
+      This application it to help employers create a database and keep track of their employees/roster.
 
 ## Table of Contents
 
@@ -15,12 +15,11 @@
   ## Installation
 
   Packages required to run this program are:
-  inquirer and axios
+  inquirer, mysql and console.table
 
   ## Usage
 
-  Examples of how to use this program:
-  create a README file dynamically
+  Create a data table and keep track of your employees by adding and removing staff, updating staff roles and names, deleting employees from the roster.
 
   ## License
 
@@ -29,9 +28,8 @@
   ## Tests
 
   To test, run the following command:
-  node
+  npm start
 
   ## Demo
 
-  ![Screenshot](/images/screenshot.PNG)
-  ![Demo](/images/demo.gif)
+  ![Demo](images/demo.gif)
